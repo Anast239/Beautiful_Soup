@@ -1,1 +1,1 @@
-# Beautiful_Soup
+# Установка Beautiful Soup
